@@ -1,4 +1,5 @@
 variable "compartment_ocid" {
+  default = ""
 
 }
 
